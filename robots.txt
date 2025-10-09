@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://prismatic.consulting
+Sitemap: https://prismatic.consulting/sitemap.xml
